@@ -61,7 +61,7 @@ const Projects = () => (
               portfolio.
             </td>
             <td>
-              <Link href="">
+              <Link href="https://github.com/meg-wilde/developer-portfolio">
                 <p className="link">Github link</p>
               </Link>
             </td>
