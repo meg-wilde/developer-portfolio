@@ -19,7 +19,7 @@ const Header = () => (
         background-color: #5d576b;
         padding: 10px;
         display: flex;
-        justify-content: center; /* Center the links horizontally */
+        justify-content: center;
         align-items: center;
         height: 100%;
       }
@@ -29,6 +29,7 @@ const Header = () => (
         text-decoration: none;
         margin-left: 20px;
         margin-right: 20px;
+        padding-top: 20px;
       }
 
       p:hover {
